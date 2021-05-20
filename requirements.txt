@@ -26,7 +26,7 @@ pandocfilters==1.4.2
 parso==0.2.0
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.7.2
 pywinpty==0.5.1
 pyzmq==17.0.0
